@@ -1,5 +1,7 @@
 # Evidence portfolio
 
+> An application written in C# to store and display food recipe's.
+
 ## Getting started
 
 ### Compiling the source code
