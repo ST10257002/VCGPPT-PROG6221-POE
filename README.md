@@ -8,12 +8,16 @@
 
 See the [official documentation](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) for more information.
 
-1. Create/open an empty folder on your local machine to store the project files.
-2. **Windows:** enter the folder and type <kbd>cmd</kbd> or <kbd>powershell</kbd> to your choosing into the directory/breadcrumb field, and then press <kbd>Enter</kbd> to open a command line terminal at this location, or do it manually.
-    - If you are using a different operating system or do not have Git installed on your local machine, download the repository as an archive, and then decompress it to access the project files. This is also applicable if you do not wish to use the recommended method above.
-3. Confirm that you are in the correct directory, then copy and run the following command:
+If you do not have Git installed and set up on your local machine, you can download a ZIP archive of the repository under the <kbd><> Code</kbd> dropdown menu. To compile the source code, run Visual Studio 2022 (or later versions) and open the uncompressed folder, then compile the project from the IDE.
 
-```cmd
+#### Using a command line interface (CLI)
+
+1. Create/open an empty folder on your local machine to store the project files.
+2. Open a terminal window and navigate to the directory of the folder.
+    - **Windows:** To do this in an efficient manner, enter the folder in the default file explorer and click on the directory breadcrumb. Then, type <kbd>C</kbd> <kbd>M</kbd> <kbd>D</kbd> followed by <kbd>Enter</kbd> to directly initialise a Windows terminal at the location of your desired folder.
+3.  Clone this repository using the following command:
+   
+```
 git clone https://github.com/ST10257002/VCGPPT-PROG6221-POE
 ```
 
