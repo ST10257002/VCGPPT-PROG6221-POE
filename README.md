@@ -14,4 +14,6 @@
 
 ## Contribution
 
+This repository is private and has been released into the public domain with the intention of code submission. All issues and pull requests will be ignored, do not attempt to modify and/or contribute to this repository in any way.
+
 ## License
