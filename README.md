@@ -17,3 +17,7 @@
 This repository is private and has been released into the public domain with the intention of code submission. All issues and pull requests will be ignored, do not attempt to modify and/or contribute to this repository in any way as it is the work of an individual.
 
 ## License
+
+This software is protected under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) license. 
+
+© 2024 ST10257002
