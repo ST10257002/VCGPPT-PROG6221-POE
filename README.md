@@ -21,8 +21,6 @@ If you do not have Git installed and set up on your local machine, you can downl
 git clone https://github.com/ST10257002/VCGPPT-PROG6221-POE
 ```
 
-4. Open the source folder in Visual Studio 2022 *(or later versions)* and compile the program.
-
 ## Versions
 
 ### Version 1.0 (Part-1)
