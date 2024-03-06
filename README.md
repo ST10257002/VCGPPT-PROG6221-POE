@@ -14,7 +14,7 @@ If you do not have Git installed and set up on your local machine, you can downl
 
 1. Create/open an empty folder on your local machine to store the project files.
 2. Open a terminal window and navigate to the directory of the folder.
-    - **Windows:** To do this in an efficient manner, enter the folder in the default file explorer and click on the directory breadcrumb. Then, type <kbd>C</kbd> <kbd>M</kbd> <kbd>D</kbd> followed by <kbd>Enter</kbd> to directly initialise a Windows terminal at the location of your desired folder. This works with PowerShell in the same way. ([video guide](https://youtu.be/N7IqS3PX3YA?t=65))
+    - **Windows:** To do this in an efficient manner, enter the folder in the default file explorer and click on the address bar. Then, type <kbd>C</kbd> <kbd>M</kbd> <kbd>D</kbd> followed by <kbd>Enter</kbd> to directly initialise a Windows terminal at the directory of your folder. This works with PowerShell in the same way. Watch short [video guide](https://youtu.be/N7IqS3PX3YA?t=80) here.
 3.  Clone this repository using the following command:
    
 ```
